@@ -105,6 +105,7 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Авторизация";
             this.label3.UseWaitCursor = true;
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // Form2
             // 
